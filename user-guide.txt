@@ -1,0 +1,9 @@
+run the program:
+
+0. Installation of the program and running it
+
+1. Initialise the rover: 
+- Prompt for initial location and direction
+- Prompt for strings for instructions (L, R, F, B)
+  Shows the new position and orientation of the rover after each sequence
+
